@@ -1,9 +1,9 @@
 import requests
 
-ZIPCODE = ''
-FIRSTNAME = ''
-LASTNAME = ''
-PHONENUMBER = ''
+ZIPCODE = '68118'
+FIRSTNAME = 'Jon'
+LASTNAME = 'Blinder'
+PHONENUMBER = '4023695709'
 
 headers = {
     'origin': 'https://savorwavs.com',
